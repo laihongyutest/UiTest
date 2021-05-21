@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-I8N9NFT",
+    "children" : [ {
+      "name" : "11996-MainThread",
+      "children" : [ {
+        "name" : "test001",
+        "uid" : "47e03abf0dffd644",
+        "parentUid" : "a0a6962496fa539958a1b4e79156c4cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619088617221,
+          "stop" : 1619088641764,
+          "duration" : 24543
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a0a6962496fa539958a1b4e79156c4cb"
+    } ],
+    "uid" : "35eba09a5828f8b2cea7ec5f6ad4f3bd"
+  } ]
+}
