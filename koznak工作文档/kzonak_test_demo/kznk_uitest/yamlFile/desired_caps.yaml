@@ -1,0 +1,8 @@
+platformName: 'Android'
+platformVersion: '10'
+deviceName: 'Mi9SE'
+appPackage: 'cn.wlantv.kznk'
+appActivity: 'cn.wlantv.kznk.ui.launch.LauncherActivity'
+noReset: 'true'
+automationName: 'Uiautomator2'
+
